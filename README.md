@@ -1,4 +1,4 @@
-# test_app2
+# favouritePokemonPokedex
 
 A new Flutter project.
 
